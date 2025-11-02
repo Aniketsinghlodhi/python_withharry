@@ -17,3 +17,8 @@ for number in numbers:
 # exaple 2: Print the first 10 multiples of 5
 for i in range(1,11):
     print(i*5)
+
+    # exaple 3 : Print a statement 110 times
+    
+    for i in range (1,111):
+        print("Aniket is the greatest person on earth  ")
