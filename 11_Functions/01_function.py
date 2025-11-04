@@ -27,10 +27,10 @@ c1 = 1
 average = (a1+b1+c1)/3
 # print(average)
 
-def average(a,b,c):
+def average(a,b,c): # def is keywork , average is variable and inside of ()is parameter 
     d = average = (a+b+c)/3
     # print(d)
-    return d
+    return d # return is used for assigning the any functions for recalling back 
 
     
 b = average(2,3,4)
