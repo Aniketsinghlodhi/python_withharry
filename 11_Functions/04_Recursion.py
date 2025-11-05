@@ -17,15 +17,15 @@ def fib(n):
         return n 
     return fib(n-2)+fib(n-1)
 
-# print(fib(10))
-# print(fib(13))
-# print(fib(5))
-# print(fib(8))
+print(fib(10))
+print(fib(13))
+print(fib(5))
+print(fib(8))
 
 # this is the great explanation of Recursion 
 
 print(fib(6))
-
+#fibonacchi series problem 
 # fib(4)+fib(5)
 # fib(2)+fib(3)+fib(5)
 # fib(0)+fib(1)+fib(3)+fib(5)
@@ -38,3 +38,6 @@ print(fib(6))
 # 0+1+1+0+1+1+0+1+0+1+1+0+1
 
 # output is 8 
+# important notes 
+# must have a base case to avoid infinite recursion 
+#Used in algorithm like fibonacci, Tree travelsals
