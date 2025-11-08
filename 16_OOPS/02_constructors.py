@@ -1,6 +1,6 @@
 class Employee:
     def __init__(self, salary,name,bond ):
-         self.salary = salary 
+         self.salary = salary # create an instance attribute of salary and assign with salary 
          self.name = name 
          self.bond = bond 
 
