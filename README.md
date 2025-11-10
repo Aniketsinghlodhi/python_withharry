@@ -25,6 +25,3 @@ Here’s what this journey aims to achieve:
 
 ---
 
-## 🗂️ Repository Structure
-
-Here’s how the repository is organized for easy navigation:
