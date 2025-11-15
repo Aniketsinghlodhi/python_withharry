@@ -1,4 +1,5 @@
 for i in range (1 ,6 ):
+#passing any given number
     match i:
         case 1 :
             print(1)
