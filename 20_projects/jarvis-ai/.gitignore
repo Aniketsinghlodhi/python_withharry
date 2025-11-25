@@ -1,0 +1,69 @@
+# -----------------------------
+# Python general
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.sqlite3
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+env/
+.jarvis-env/
+jarvis-env/
+*/jarvis-env/
+*/env/
+*/venv/
+
+# Conda environments
+conda-env/
+*.conda
+
+# -----------------------------
+# macOS system files
+# -----------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# VS Code
+# -----------------------------
+.vscode/
+.history/
+*.code-workspace
+
+# -----------------------------
+# Cache
+# -----------------------------
+.cache/
+.eggs/
+.installed.cfg
+*.egg-info/
+
+# -----------------------------
+# Audio files from ElevenLabs
+# -----------------------------
+*.mp3
+*.wav
+
+# -----------------------------
+# Environment variables
+# -----------------------------
+.env
+*.env
+
+# -----------------------------
+# Build artifacts
+# -----------------------------
+build/
+dist/
