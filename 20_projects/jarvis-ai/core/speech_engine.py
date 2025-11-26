@@ -257,6 +257,6 @@ if __name__ == "__main__":
         if result:
             engine.speak(f"You said: {result}")
         else:
-            engine.speak("I didn't catch that.")
+            engine.speak("I didn't catch that try again .")
     else:
         logger.error("Skipping STT test because no microphone is available.")
